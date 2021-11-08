@@ -1,0 +1,33 @@
+.services {
+    padding-top: 64px!important;
+    padding-bottom: 64px!important;
+    background-color: #fafafa!important;
+    border: 1px solid #e9eced!important;
+    height: 282px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.services ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+    height: 283px;
+}
+
+.services li {
+    padding: 0px 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.services li img {
+    height: 190px;
+    width: 305px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}

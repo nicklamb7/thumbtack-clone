@@ -1,0 +1,29 @@
+.testimonials {
+    background-color: #fafafa;
+    height: 494px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.testimonials__text {
+    width: 946px;
+    margin-bottom: 64px;
+    border-bottom: 4px solid #2f3033!important;
+    padding-top: 64px;
+}
+
+.testimonials__text h1 {
+    font-size: 32px;
+    margin: 24px 0px;
+}
+
+.testimonials__text p {
+    font-size: 28px;
+    margin-bottom: 24px;
+}
+
+.testimonials__quote {
+    height: 224px;
+}

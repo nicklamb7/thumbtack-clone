@@ -1,0 +1,36 @@
+.description {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 488px;
+}
+
+.description__wrapper {
+    width: 946px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.description__left {
+    width: 450px;
+}
+
+.description__left img {
+    height: 46px;
+    margin-right: 8px;
+}
+
+.description h3 {
+    font-size: 24px;
+}
+
+.description__right {
+    width: 450px;
+}
+
+.description__right img {
+    height: 488px;
+    bottom: 0px;
+    position: relative;
+}
